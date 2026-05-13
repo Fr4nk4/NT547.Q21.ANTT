@@ -32,4 +32,4 @@ jobs:
 
       - name: Run Slither
         run: |
-          slither BadVault.sol --fail-high
+          slither Lab6/BadVault.sol --fail-high
